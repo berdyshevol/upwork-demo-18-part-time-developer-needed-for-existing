@@ -1,5 +1,9 @@
 # App Health Dashboard
 
+## Live demo
+
+https://upwork-demo-18-part-time-developer.vercel.app
+
 Triage demo for an "existing" Next.js app. Three intentionally buggy features
 (file upload, chat, slow dashboard) plus a `/health` issue tracker so a client
 can see how a part-time dev would surface, document, and close findings.
